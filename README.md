@@ -4,3 +4,5 @@
 1.[vue插件编写](https://github.com/romayn-wyb/romayn-wyb.github.io/issues/1)
 
 2.[前端跨域解决方案(全)](https://github.com/romayn-wyb/romayn-wyb.github.io/issues/2)
+
+2.[12种使用vue的最佳做法](https://github.com/romayn-wyb/romayn-wyb.github.io/issues/4)
