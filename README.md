@@ -6,3 +6,5 @@
 2.[前端跨域解决方案(全)](https://github.com/romayn-wyb/romayn-wyb.github.io/issues/2)
 
 3.[12种使用vue的最佳做法](https://github.com/romayn-wyb/romayn-wyb.github.io/issues/4)
+
+4.[页面加载时长分析-Performance](https://github.com/romayn-wyb/romayn-wyb.github.io/issues/5)
